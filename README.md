@@ -79,10 +79,17 @@ fp.close()
 Then you can submit on crowdAI, by going to the challenge page and clicking on `Create Submission`: 
 ![create_submission](https://i.imgur.com/dqWSOcn.png)
 
-and then upload the file by clicking on "Browse file at the bottom of the screen ":
+
+and then upload the file by clicking on `Browse file` at the bottom of the screen:
+
+
+
 ![browse_file](https://i.imgur.com/QXQcLeS.png)
 
+
 and then finally, your submission should either be accepted, or the error shown : 
+
+
 ![feedback](https://imgur.com/undefined)
 
 
